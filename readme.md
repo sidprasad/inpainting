@@ -1,4 +1,4 @@
-#Repair4 Inpainter
+#Image Inpainting
 ##Sidhartha Prasad
 ##June 2013
 
