@@ -6,3 +6,6 @@ This repository contains an image in-painting system for greyscale images based 
 [SIVP](http://sivp.sourceforge.net/) in the Scilab environment is required to use this program.
 
 It was written under the supervision of Prof. Prem Kalra, I.I.T. Delhi.
+
+Revenue = Price * Quantity
+
