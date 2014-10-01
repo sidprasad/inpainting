@@ -7,5 +7,4 @@ This repository contains an image in-painting system for greyscale images based 
 
 It was written under the supervision of Prof. Prem Kalra, I.I.T. Delhi.
 
-Revenue = Price * Quantity
 
